@@ -1,0 +1,31 @@
+{
+  "name": "РљРѕРјРїР°РЅРёСЏ Р’Р°СЂСѓРј",
+  "short_name": "Р’Р°СЂСѓРј",
+  "description": "РЎР°Р№С‚ Р·Р°РєСЂС‹С‚ РЅР° РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2F3253",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
